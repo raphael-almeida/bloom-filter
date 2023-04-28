@@ -6,5 +6,6 @@ Bloom proposed the technique for applications where the amount of source data wo
 
 More generally, fewer than 10 bits per element are required for a 1% false positive probability, independent of the size or number of elements in the set.
 
-https://en.wikipedia.org/wiki/Bloom_filter
-https://hur.st/bloomfilter/
+[https://en.wikipedia.org/wiki/Bloom_filter]
+
+[https://hur.st/bloomfilter/]
